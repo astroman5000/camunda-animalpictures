@@ -1,0 +1,3 @@
+com\camunda\animalpicture\AnimalpictureApplication.class
+com\camunda\animalpicture\AnimalPictureController.class
+com\camunda\animalpicture\controller\ProcessStartController.class
