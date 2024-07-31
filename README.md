@@ -1,5 +1,5 @@
 ## Camunda Tech Challenge for Consulting Submission
-### Author: Andrew Palizzi, andrew.palizzi@gmail.com
+
 
 ## Project Intro
 This is a project to retrieve animal images from pubic REST APIs. The solutions utilizes a business process developed on the Camunda SAAS and a client Java application.
@@ -17,6 +17,7 @@ The client Java application is used to initiate the Animal Pictures process usin
 Requirements
 - Java JDK 21
 - PostgreSQL database server
+- Add the zeebe.client.cloud.region settings values to the application.settings file. These were removed due to public repostory.
 
 ### Import Classes
 - AnimalpictureApplication -  a SpringBootApplication app and is the main entry point to run the application
