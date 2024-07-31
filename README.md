@@ -12,7 +12,7 @@ Input: JSON string to pass in selected_animal, valid values are "cat", "dog", "b
 Example Input: {"selected_animal":"dog"}
 
 ## Client Java Application
-The client Java application is used to initiate the Animal Pictures process using a REST endpoint. It also implements a JobWorker to download the animal pictures using RESTClient
+The client Java application is used to initiate the Animal Pictures process using a REST endpoint. It also implements a JobWorker to download the animal pictures using RESTClient. The application requires Java JDK 21.
 
 ### Import Classes
 - AnimalpictureApplication -  a SpringBootApplication app and is the main entry point to run the application
